@@ -8,7 +8,7 @@ pod 'FastEasyMapping'
 pod 'JSONModel'
 pod 'Mantle'
 pod 'MJExtension'
-pod 'YYModel'
+pod 'YYModel', :path => '../../YYModel'
 
 # Swift
 pod 'Argo'
